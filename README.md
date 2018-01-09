@@ -1,4 +1,4 @@
-```## Sorting Algorithms
+## Sorting Algorithms
 
 For this assignment you will be responsible for the following:
 
@@ -24,4 +24,4 @@ Note: Quick Sort and Merge Sort are difficult to visualize in the DOM. Do these 
 
 ![merge sort gif](https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif "Merge Sort gif")
 
-[sorting video](https://www.youtube.com/watch?v=cVMKXKoGu_Y)```
+[sorting video](https://www.youtube.com/watch?v=cVMKXKoGu_Y)
